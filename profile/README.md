@@ -4,5 +4,5 @@
 
 <h1 align="center">Oct Astro</h1>
 
-<p align="center">Oct Astro</p>
 <p align="center">景蓝的开发团队</p>
+
